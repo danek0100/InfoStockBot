@@ -1,0 +1,8 @@
+firebase_admin
+requests
+bs4
+vk_api
+yfinance
+investpy
+dataframe_image
+matplotlib
