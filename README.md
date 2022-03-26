@@ -13,3 +13,6 @@ This bot is designed for the convenience of working with the stock market and ha
 
 
 The ISB is also possible to monetize with VK Donat.
+
+
+While bot is working you can test it - https://vk.com/i_s_bot
